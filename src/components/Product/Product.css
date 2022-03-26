@@ -41,9 +41,9 @@
 .btn-cart .btn-text{
     margin-right: 10px;
 }
-.btn-card:hover{
+.btn-cart:hover{
     background-color: #1E90FF;
 }
-.btn-card .btn-text{
+.btn-cart .btn-text{
     margin-right: 7px;
 }
