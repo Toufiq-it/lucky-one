@@ -33,3 +33,15 @@
 .carts{
     padding: 20px;
 }
+@media screen and (max-width:576px) {
+    .product-container{
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+@media screen and (max-width:576px) {
+    .shop-container{
+        margin: 0 10px 5px;
+        padding: 1px 2px;
+        top: 0;
+    }
+}
