@@ -8,3 +8,28 @@
     gap: 45px;
     margin: 100px 50px;
 }
+.cart-container{
+    background-color: rgba(80, 164, 175, 0.507);
+    height: 600px;
+    width: 300px;
+    border: 1px solid #95A0A7;
+    border-radius: 10px;
+}
+.btn-container{
+    display: grid;
+    gap: 10px;
+    padding: 20px 20px;
+}
+.btn1{
+    height: 35px;
+    width: 140px;
+    background-color: 	#F5DEB3;
+}
+.btn2{
+    height: 35px;
+    width: 140px;
+    background-color: 	#FFFAFA;
+}
+.carts{
+    padding: 20px;
+}
